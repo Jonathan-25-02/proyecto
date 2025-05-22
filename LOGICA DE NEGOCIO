@@ -1,0 +1,19 @@
+EMPLEADO
+   Es una persona que trabaja en la empresa. Tiene nombre, apellido y fecha de ingreso.
+   Es la base para otros tipos de trabajadores.
+
+TECNICO
+   Es un tipo especial de empleado que se dedica a los **efectos especiales**.
+   Está vinculado a un solo empleado (uno a uno) y tiene una **especialidad** (por ejemplo: maquillaje, animatronics, etc).
+
+PRODUCTORA
+   Es una empresa que produce películas o contenido audiovisual.
+   Tiene un nombre y un país de origen.
+
+CREACION
+   Es un objeto creado con efectos especiales (por ejemplo: una máscara, una maqueta, un brazo robótico).
+   Cada creación:
+
+LOGICA DE NEGOCIO 
+
+
